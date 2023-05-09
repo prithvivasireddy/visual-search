@@ -1,0 +1,139 @@
+[33mcommit d4aca5608304d87e5f5a41eabf11c2df43c05a74[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Fri Mar 31 14:16:18 2023 -0400
+
+    updated requirement.txt
+
+[33mcommit 2b964b31346f35896f236959b306b5053536ee55[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Fri Mar 31 14:15:15 2023 -0400
+
+    cleaned codebase
+
+[33mcommit 3b12925698401d1e4ae0a4fd616788bb217a60ab[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Fri Mar 31 13:15:03 2023 -0400
+
+    small change
+
+[33mcommit 03283d6b23ccd6540b01e65ac7fdfcc73bc6cebb[m
+Merge: e5d5875 50bb218
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Fri Mar 31 13:12:32 2023 -0400
+
+    Merge branch 'main' of https://github.com/Negi97Mohit/Digital_Marketing_Elastic_Search
+
+[33mcommit e5d5875ba26fff625cbd8fa752952566d9d5a8e8[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Fri Mar 31 13:12:25 2023 -0400
+
+    change repo to private
+
+[33mcommit 50bb21871d65bde8bdcf15c5961784f3228e15b0[m
+Author: Mohit Negi <62002911+Negi97Mohit@users.noreply.github.com>
+Date:   Fri Mar 31 13:09:10 2023 -0400
+
+    Update Task-2_DALL-E.py
+
+[33mcommit 0f40fb151dd53bca8e4ffd45cef15fba23cc2de0[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Fri Mar 31 13:05:37 2023 -0400
+
+    updated openAI API
+
+[33mcommit ebefc73982a6569f3b2c7ae1c26b93c09e7c7a69[m
+Merge: 7534dcf 1b8ecd6
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Fri Mar 31 12:11:24 2023 -0400
+
+    update
+
+[33mcommit 7534dcfb042c4af4a668c2c4b2abc2a3557ffe32[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Fri Mar 31 12:10:11 2023 -0400
+
+    Implemented meta-data search
+
+[33mcommit 1b8ecd60c226e7a8d981c8e0484cdac2e90fa052[m
+Author: Mohit Negi <62002911+Negi97Mohit@users.noreply.github.com>
+Date:   Thu Mar 30 17:38:44 2023 -0400
+
+    Update Task-3_Pinecone.py
+
+[33mcommit 79dc71613f06460063ce5a8a2f1a2378c5b63933[m
+Author: Mohit Negi <62002911+Negi97Mohit@users.noreply.github.com>
+Date:   Thu Mar 30 17:17:51 2023 -0400
+
+    Update requirements.txt
+
+[33mcommit 1ddfc9153805c1a41ba1ecfe39f196397b8f2860[m
+Author: Mohit Negi <62002911+Negi97Mohit@users.noreply.github.com>
+Date:   Thu Mar 30 17:16:16 2023 -0400
+
+    Update requirements.txt
+
+[33mcommit a5d81591f3c3aa63a49d6311165a7beeea5e90ad[m
+Author: Mohit Negi <62002911+Negi97Mohit@users.noreply.github.com>
+Date:   Thu Mar 30 17:15:11 2023 -0400
+
+    Update requirements.txt
+
+[33mcommit 9232ba405f9e091d64f8c4881fb2591937d8fe7f[m
+Author: Mohit Negi <62002911+Negi97Mohit@users.noreply.github.com>
+Date:   Thu Mar 30 17:13:38 2023 -0400
+
+    Update Task-1_Image_Search.py
+
+[33mcommit ac76746c66ab243ff682ad7f4658b9ce8a17209c[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Thu Mar 30 17:08:36 2023 -0400
+
+    Completed Pinecone
+
+[33mcommit 724378371aca384f570df53512a5bf1dafe41851[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Thu Mar 30 15:20:01 2023 -0400
+
+    Added new imgs for vectorizing
+
+[33mcommit 34cac2dd656f788790d403a78dfb6daa8b8f058d[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Thu Mar 30 14:04:56 2023 -0400
+
+    cleaned image file naming system
+
+[33mcommit b369c7e9054c9cd4aa05f358972cb541c0e7fa8a[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Wed Mar 29 19:44:05 2023 -0400
+
+    Added Dale-E by Prithvi
+
+[33mcommit 39485825fcf5b26c400e6b69619ce077863c1b8c[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Wed Mar 29 19:39:23 2023 -0400
+
+    Vectorizing the dataframe
+
+[33mcommit 4d0d20edefda8241189d896db3cc7d483b77378c[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Mon Mar 27 21:25:51 2023 -0400
+
+    Made changes
+
+[33mcommit 1cce2c0699ac71e307a7a0e2f8e344645e5b5ef7[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Thu Mar 23 15:08:53 2023 -0400
+
+    Added Sis files to the main directory
+
+[33mcommit 9d7e3bad2cdb3674c5fe5fabb493af7c454d6896[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Thu Mar 23 14:39:32 2023 -0400
+
+    Added Home.py and pages
+
+[33mcommit b897ea4890ae6d1d8d0e990d2899cc0674220306[m
+Author: Negi97Mohit <mohit.snegi97@gmail.com>
+Date:   Thu Mar 23 12:39:32 2023 -0400
+
+    Added assignment-4 DPF file
