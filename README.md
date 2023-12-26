@@ -1,4 +1,4 @@
-# visual-search
+# visual-search_PINECONE
 PineCone VectorSearch Implementation
 ```
 v1.0: Generic image search implementation. 
