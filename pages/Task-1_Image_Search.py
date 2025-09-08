@@ -2,7 +2,6 @@
 """
 Created on Mon Feb  6 15:11:43 2023
 
-This code appears to be an implementation of a web application for image search.
 
 """
 
